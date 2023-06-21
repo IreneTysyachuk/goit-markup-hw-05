@@ -875,8 +875,6 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: var(--customers-links-color);
-  display: flex;
-  align-items: center;
 }
 
 .check-span {
@@ -907,7 +905,6 @@ img {
 .policy-link {
   line-height: 1.33;
   letter-spacing: 0.04em;
-  margin-left: 5px;
   text-decoration-line: underline;
   color: var(--main-button-background-color);
 }
